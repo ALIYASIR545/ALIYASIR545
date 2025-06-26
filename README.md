@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALIYASIR545
+- 👋 Hi, I’m @ALIYASIR
 - 👀 I’m interested in ...programing
 - 🌱 I’m currently learning ... Chatbot in python
 - 💞️ I’m looking to collaborate on ...bcz i dont understand
